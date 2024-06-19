@@ -4,7 +4,19 @@
     height: 100%;
 }
 
+/* マウスストーカー用css  ここから*/
+
 .mouseStalker{
     position: absolute;
 }
 
+/* マウスストーカー用css ここまで */
+
+
+/* header用css ここから */
+
+.header{
+    width: 100%;
+}
+
+/* header用css ここまで */
