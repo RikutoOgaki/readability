@@ -19,5 +19,3 @@ document.addEventListener('mousemove', (e) => {
 })
 
 // マウスストーカー実装 ここまで
-
-
